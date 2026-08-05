@@ -13,6 +13,8 @@
   </a>
 </div>
 
+<br />
+
 ---
 
 ### 📌 About Me
@@ -26,21 +28,39 @@ I build production-ready **n8n workflow automations**, **custom AI agents**, and
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Automation & AI** | `n8n` `OpenAI API` `Claude API` `Custom AI Agents` `REST APIs` |
-| **Web Development** | `PHP` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` |
-| **Cloud & DevOps** | `CyberPanel` `OpenLiteSpeed` `VPS Hardening` `Git` `Linux` |
+- **Automation & AI:**  
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=postman&logoColor=white)
+
+- **Web Development:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+- **Cloud & DevOps:**  
+  ![CyberPanel](https://img.shields.io/badge/CyberPanel-00A8FF?style=flat-square&logo=linux&logoColor=white)
+  ![OpenLiteSpeed](https://img.shields.io/badge/OpenLiteSpeed-689F38?style=flat-square&logo=nginx&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Key Featured Ventures
+### 🚀 Key Projects & Repositories
 
 #### 1. 🤖 [RKM AI Labs Portfolio](https://portfolio.rtisupport.in)
 > High-impact portfolio platform showcasing enterprise workflow automations, custom API integrations, and cloud infrastructure architecture.
 
 #### 2. ⚖️ [RTI Support Portal](https://rtisupport.in)
 > Smart legal-tech platform designed to simplify, standardize, and accelerate Right to Information (RTI) application drafting for citizens.
+
+#### 3. 🔄 [n8n Automation Workflows](https://github.com/rkmailab/n8n-automation-workflows)
+> Production-ready n8n workflows and enterprise data automation scripts.
+
+#### 4. ⚡ [CyberPanel Cloud Architecture](https://github.com/rkmailab/cyberpanel-cloud-architecture)
+> Production-ready VPS configuration, security hardening, and high-performance server management scripts.
 
 ---
 
@@ -55,6 +75,7 @@ I build production-ready **n8n workflow automations**, **custom AI agents**, and
 
 ### 📬 Let's Connect
 
-- **Email:** `contact@rtisupport.in`
-- **Consultation Window:** 5:00 PM – 9:00 PM (IST)
-- **LinkedIn:** [Rajesh Kumar Modi](https://www.linkedin.com/in/rajesh-kumar-modi-90344b287/)
+- 📧 **Email:** `contact@rtisupport.in`
+- 📞 **Phone / Consultation Line:** `+91 231-3588898`
+- 🕒 **Consultation Window:** 5:00 PM – 9:00 PM (IST)
+- 💼 **LinkedIn:** [Rajesh Kumar Modi](https://www.linkedin.com/in/rajesh-kumar-modi-90344b287/)
